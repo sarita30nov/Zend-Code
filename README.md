@@ -1,10 +1,4 @@
-# Sample Album Modulefor Zend Framework 2
-
-## Introduction
-
-Album is a sample Module based on the <a href="http://framework.zend.com/manual/2.0/en/user-guide/overview.html">(Getting Started)</a> guide framework.zend.com .
-
-## Installation
+Album is a sample Module based zend 2 code 
 
 ### Main Setup
 
@@ -37,7 +31,5 @@ Copy the These files
 ###Database Setup
 Import module/Album/data/album.sql into your database
 
-###Usage
-Browser to the album page
 
-`your-domain-name/album`
+http://localhost/zend/public/album
